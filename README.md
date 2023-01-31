@@ -1,6 +1,5 @@
 # Pay Rate Calculutor
 
-Small android app to show my mom that she is seriously underpaid at her convience on her phone.
 
 Converts salary to hourly and vice versa.
 
